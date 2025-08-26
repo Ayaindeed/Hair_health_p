@@ -4,7 +4,7 @@ A comprehensive machine learning analysis of hair loss patterns and risk factors
 
 ## Dataset
 
-- **Source**: [redict Hair Fall.csv](https://www.kaggle.com/datasets/amitvkulkarni/hair-health/data)
+- **Source**: [Predict Hair Fall.csv](https://www.kaggle.com/datasets/amitvkulkarni/hair-health/data)
 - **Records**: 999 patients
 - **Features**: 12 key factors (Age, Genetics, Medical Conditions, Nutritional Deficiencies, Stress, etc.)
 - **Target**: Binary hair loss prediction (0/1)
