@@ -66,36 +66,6 @@ This project includes an interactive Streamlit web application for real-time ana
 - **ML Model Performance**: Model comparison and feature importance
 - **Cluster Analysis**: Patient segmentation with PCA visualization
 
-### Running the Streamlit App
-
-#### Windows
-```bash
-# Double-click or run:
-run_streamlit.bat
-```
-
-#### Linux/Mac
-```bash
-# Make executable and run:
-chmod +x run_streamlit.sh
-./run_streamlit.sh
-```
-
-#### Manual Setup
-```bash
-# Activate virtual environment
-.venv\Scripts\activate  # Windows
-# source .venv/bin/activate  # Linux/Mac
-
-# Install requirements
-pip install -r requirements.txt
-
-# Run the app
-streamlit run streamlit_app.py
-```
-
-The app will open in your browser at `http://localhost:8501`
-
 ## Results Summary
 
 The analysis provides a robust foundation for:
